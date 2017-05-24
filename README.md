@@ -16,3 +16,6 @@
 * Commit it
 * At this point, you would have made two commits on the branch `add/your-name`
 * Push this branch to your fork on the Github account
+* Go to the domain --> aurs-juit.github.io
+* Update your informations [Photo, details and Position(if any)] on the website
+* Join our [Slack Team](https://aurs-juit.slack.com)
